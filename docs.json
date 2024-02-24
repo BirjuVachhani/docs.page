@@ -1,6 +1,7 @@
 {
   "name": "docs.page",
   "logo": "https://static.invertase.io/assets/docs.page/docs-page-logo.png",
+  "favicon": "https://static.invertase.io/assets/docs.page/docs-page-logo.png",
   "theme": "#36B9B9",
   "twitter": "invertaseio",
   "anchors": [
